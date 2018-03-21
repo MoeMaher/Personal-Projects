@@ -1,6 +1,6 @@
-## Chating Application Project
+# Chating Application Project
 
-###This Project is made by Mohamed Maher 
+##This Project is made by Mohamed Maher 
 
 		to start the application you should run LOGIN.java class 
 	
