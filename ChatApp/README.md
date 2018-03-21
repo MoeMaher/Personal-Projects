@@ -1,6 +1,12 @@
 # Chating Application Project
 
-This Project is made by Mohamed Maher 
+This Project is made by Mohamed Maher
+
+Email : 
+
+```
+momaherg@gmail.com
+```
 
 ## Getting Started 
 
