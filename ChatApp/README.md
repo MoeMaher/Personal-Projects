@@ -2,11 +2,11 @@
 
 This Project is made by Mohamed Maher 
 
-##Getting Started 
+## Getting Started 
 
 to start the application you should run LOGIN.java class 
 	
-###The Other Main Classes are :
+### The Other Main Classes are :
 
 1- MainServer which represents the MultiThreaded Server
 
