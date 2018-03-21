@@ -2,9 +2,9 @@
 
 This project allows you 
 
-* to create any number of Servers Localy on the same computer at the current time each server listens to a chosen portNumber.
+* to create any number of Servers inwhich each server listens to a chosen portNumber.
 * to connect groups of these servers to form Networks.
-* to connect Clients to the servers and enjoy live chatting across the servers.
+* to connect Clients to the servers and enjoy live chatting across the Network.
 
 ## Getting Started 
 

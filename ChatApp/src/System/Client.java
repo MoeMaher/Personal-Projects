@@ -48,7 +48,8 @@ public class Client extends javax.swing.JFrame{
         msgID = n + "";
         System.out.println("ClientID" + msgID);
         Username = U;
-        clientSocket = new Socket("MahersPC", PortNum);
+        String MainServerPCNameOrIP = "MahersPC";                 // The Main Server's PCName or Local ID
+        clientSocket = new Socket(MainServerPCNameOrIP, PortNum);
         System.out.println("connection established from client " + clientSocket);
 
         try{
