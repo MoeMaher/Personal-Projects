@@ -1,16 +1,14 @@
 # Chating Application Project
 
-This Project is made by Mohamed Maher
+This project allows you 
 
-Email : 
-
-```
-momaherg@gmail.com
-```
+* to create any number of Servers Localy on the same computer at the current time each server listens to a chosen portNumber.
+* to connect groups of these servers to form Networks.
+* to connect Clients to the servers and enjoy live chatting across the servers.
 
 ## Getting Started 
 
-to start the application you should run LOGIN.java class 
+to start the application you should run src/GUI/LOGIN.java class 
 
 ## Project Structure :
 
@@ -37,4 +35,13 @@ which represents the MultiThreaded Server
 * Represent a Client that can connect to this server and its GUI is already implemented in it.
 * Send Messages to the connected server.
 
+## Author 
+
+This Project is made by Mohamed Maher
+
+Email : 
+
+```
+momaherg@gmail.com
+```
 
